@@ -14,7 +14,6 @@ Given applicant features (e.g., income, credit characteristics) and loan attribu
 - Source: Kaggle “Loan Approval” dataset (binary target: `loan_status`)
 - Size (as used in the report): ~45,000 rows, 14 attributes
 - Target: `loan_status` (Approved / Rejected)
-> _If your file path differs, update it in the notebook. Current notebook expects `/content/loan_data.csv` (Colab)._
 
 ## 🧰 Tech Stack
 - Python 3.x  
